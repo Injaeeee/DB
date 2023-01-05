@@ -32,7 +32,7 @@ namespace 프로젝트
 {
     public partial class form : MetroForm // form에서 MetroForm으로 변경!
     {
-      //  . . . 
+      //  . . . 생략
 
     }
 }
