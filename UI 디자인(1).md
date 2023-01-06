@@ -42,6 +42,9 @@ namespace 프로젝트
 
 
 ### 추가적으로 판넬과 이미지들을 넣고 버튼의 디테일한 디자인들을 입혀 전체적인 컨셉을 구축했다  
+PictureBox 속성
+![image](./image/사진속성.png)  
+버튼의 속성들  
 ![image](./image/버튼속성들.png)  
 버튼의 속성 
 - BackColor - 버튼의 배경색을 설장할 수 있다  
