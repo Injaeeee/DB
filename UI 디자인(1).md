@@ -15,7 +15,7 @@ metro를 사용하기 위해서 구글에 검색을 해 깔고 (무엇을 어떤
 
 ### metro 적용하기 위해 변경/추가된 코드
 그런 다음 헤더 코드 밑에 ```using MetroFramework.Forms;``` 를 추가해주고  
-기존 프로젝트의 코드 ```public partial class form : Form``` 에서 ```public partial class form : MetroForm``` 으로 수정해주면 아래의 사진처럼 폼이 Metro 디자인으로 변경된다
+기존 프로젝트의 코드 ```public partial class form : Form``` 에서 ```public partial class form : MetroForm``` 으로 수정해주면 아래의 사진처럼 폼이 Metro 디자인으로 변경된다.
 ```C#
 using System;
 using System.Collections.Generic;
