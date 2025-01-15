@@ -1,0 +1,250 @@
+C:\Users\User\source\repos\기말프로젝트\bin\Debug\기말프로젝트.exe.config
+C:\Users\User\source\repos\기말프로젝트\bin\Debug\기말프로젝트.exe
+C:\Users\User\source\repos\기말프로젝트\bin\Debug\기말프로젝트.pdb
+C:\Users\User\source\repos\기말프로젝트\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\repos\기말프로젝트\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\source\repos\기말프로젝트\bin\Debug\System.Buffers.dll
+C:\Users\User\source\repos\기말프로젝트\bin\Debug\System.Memory.dll
+C:\Users\User\source\repos\기말프로젝트\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\source\repos\기말프로젝트\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\기말프로젝트\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\source\repos\기말프로젝트\bin\Debug\System.Text.Json.dll
+C:\Users\User\source\repos\기말프로젝트\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\source\repos\기말프로젝트\bin\Debug\System.ValueTuple.dll
+C:\Users\User\source\repos\기말프로젝트\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\source\repos\기말프로젝트\bin\Debug\System.Buffers.xml
+C:\Users\User\source\repos\기말프로젝트\bin\Debug\System.Memory.xml
+C:\Users\User\source\repos\기말프로젝트\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\source\repos\기말프로젝트\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\source\repos\기말프로젝트\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\source\repos\기말프로젝트\bin\Debug\System.Text.Json.xml
+C:\Users\User\source\repos\기말프로젝트\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\source\repos\기말프로젝트\bin\Debug\System.ValueTuple.xml
+C:\Users\User\source\repos\기말프로젝트\obj\Debug\기말프로젝트.csprojAssemblyReference.cache
+C:\Users\User\source\repos\기말프로젝트\obj\Debug\기말프로젝트.Properties.Resources.resources
+C:\Users\User\source\repos\기말프로젝트\obj\Debug\기말프로젝트.csproj.GenerateResource.cache
+C:\Users\User\source\repos\기말프로젝트\obj\Debug\기말프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\기말프로젝트\obj\Debug\기말프로젝트.csproj.CopyComplete
+C:\Users\User\source\repos\기말프로젝트\obj\Debug\기말프로젝트.exe
+C:\Users\User\source\repos\기말프로젝트\obj\Debug\기말프로젝트.pdb
+C:\Users\User\source\repos\기말프로젝트\obj\Debug\기말프로젝트.로그인.resources
+C:\Users\User\source\repos\기말프로젝트\obj\Debug\기말프로젝트.회원가입.resources
+C:\Users\User\source\repos\기말프로젝트\obj\Debug\기말프로젝트.마이페이지.resources
+C:\Users\User\source\repos\기말프로젝트\obj\Debug\기말프로젝트.회원정보수정.resources
+C:\Users\User\source\repos\기말프로젝트\obj\Debug\기말프로젝트.판매자화면.resources
+C:\Users\User\source\repos\기말프로젝트\obj\Debug\기말프로젝트.구입선택.resources
+C:\Users\User\source\repos\기말프로젝트\obj\Debug\기말프로젝트.관리자화면.resources
+C:\Users\User\source\repos\기말프로젝트\obj\Debug\기말프로젝트.ucPanel.AMART.resources
+C:\Users\User\source\repos\기말프로젝트\obj\Debug\기말프로젝트.ucPanel.BMART.resources
+C:\Users\User\source\repos\기말프로젝트\obj\Debug\기말프로젝트.ucPanel.CMART.resources
+C:\Users\User\source\repos\기말프로젝트\obj\Debug\기말프로젝트.ucPanel.DMART.resources
+C:\Users\User\source\repos\기말프로젝트\obj\Debug\기말프로젝트.ucPanel.EMART.resources
+C:\Users\User\source\repos\기말프로젝트\obj\Debug\기말프로젝트.회원화면.resources
+C:\Users\User\source\repos\기말프로젝트\obj\Debug\기말프로젝트.후기작성.resources
+C:\Users\User\source\repos\기말프로젝트\obj\Debug\기말프로젝트.고객관리.resources
+C:\Users\User\source\repos\기말프로젝트\obj\Debug\기말프로젝트.공지사항.resources
+C:\Users\User\source\repos\기말프로젝트\obj\Debug\기말프로젝트.재고현황.resources
+C:\Users\User\source\repos\기말프로젝트\bin\Debug\MetroFramework.dll
+C:\Users\User\source\repos\기말프로젝트\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\source\repos\기말프로젝트\obj\Debug\기말프로젝트.상품관리.resources
+C:\Users\User\source\repos\기말프로젝트\obj\Debug\기말프로젝트.회원공지.resources
+C:\Users\User\source\repos\기말프로젝트\obj\Debug\기말프로젝트.상품현황.resources
+C:\Users\User\source\repos\기말프로젝트\obj\Debug\기말프로젝트.판매현황.resources
+C:\Users\User\Desktop\기말프로젝트11.26백업\bin\Debug\기말프로젝트.exe.config
+C:\Users\User\Desktop\기말프로젝트11.26백업\bin\Debug\기말프로젝트.exe
+C:\Users\User\Desktop\기말프로젝트11.26백업\bin\Debug\기말프로젝트.pdb
+C:\Users\User\Desktop\기말프로젝트11.26백업\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\기말프로젝트11.26백업\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Desktop\기말프로젝트11.26백업\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\기말프로젝트11.26백업\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\기말프로젝트11.26백업\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\기말프로젝트11.26백업\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\기말프로젝트11.26백업\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\기말프로젝트11.26백업\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\기말프로젝트11.26백업\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\기말프로젝트11.26백업\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\기말프로젝트11.26백업\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\기말프로젝트11.26백업\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\기말프로젝트11.26백업\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\기말프로젝트11.26백업\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\기말프로젝트11.26백업\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\기말프로젝트11.26백업\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\기말프로젝트11.26백업\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\기말프로젝트11.26백업\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\기말프로젝트11.26백업\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\기말프로젝트11.26백업\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\기말프로젝트11.26백업\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\기말프로젝트11.26백업\obj\Debug\기말프로젝트.csprojAssemblyReference.cache
+C:\Users\User\Desktop\기말프로젝트11.26백업\obj\Debug\기말프로젝트.고객관리.resources
+C:\Users\User\Desktop\기말프로젝트11.26백업\obj\Debug\기말프로젝트.공지사항.resources
+C:\Users\User\Desktop\기말프로젝트11.26백업\obj\Debug\기말프로젝트.상품관리.resources
+C:\Users\User\Desktop\기말프로젝트11.26백업\obj\Debug\기말프로젝트.상품현황.resources
+C:\Users\User\Desktop\기말프로젝트11.26백업\obj\Debug\기말프로젝트.판매현황.resources
+C:\Users\User\Desktop\기말프로젝트11.26백업\obj\Debug\기말프로젝트.재고현황.resources
+C:\Users\User\Desktop\기말프로젝트11.26백업\obj\Debug\기말프로젝트.회원공지.resources
+C:\Users\User\Desktop\기말프로젝트11.26백업\obj\Debug\기말프로젝트.회원화면.resources
+C:\Users\User\Desktop\기말프로젝트11.26백업\obj\Debug\기말프로젝트.ucPanel.AMART.resources
+C:\Users\User\Desktop\기말프로젝트11.26백업\obj\Debug\기말프로젝트.ucPanel.BMART.resources
+C:\Users\User\Desktop\기말프로젝트11.26백업\obj\Debug\기말프로젝트.ucPanel.CMART.resources
+C:\Users\User\Desktop\기말프로젝트11.26백업\obj\Debug\기말프로젝트.ucPanel.DMART.resources
+C:\Users\User\Desktop\기말프로젝트11.26백업\obj\Debug\기말프로젝트.ucPanel.EMART.resources
+C:\Users\User\Desktop\기말프로젝트11.26백업\obj\Debug\기말프로젝트.관리자화면.resources
+C:\Users\User\Desktop\기말프로젝트11.26백업\obj\Debug\기말프로젝트.판매자화면.resources
+C:\Users\User\Desktop\기말프로젝트11.26백업\obj\Debug\기말프로젝트.마이페이지.resources
+C:\Users\User\Desktop\기말프로젝트11.26백업\obj\Debug\기말프로젝트.로그인.resources
+C:\Users\User\Desktop\기말프로젝트11.26백업\obj\Debug\기말프로젝트.회원가입.resources
+C:\Users\User\Desktop\기말프로젝트11.26백업\obj\Debug\기말프로젝트.구입선택.resources
+C:\Users\User\Desktop\기말프로젝트11.26백업\obj\Debug\기말프로젝트.Properties.Resources.resources
+C:\Users\User\Desktop\기말프로젝트11.26백업\obj\Debug\기말프로젝트.회원정보수정.resources
+C:\Users\User\Desktop\기말프로젝트11.26백업\obj\Debug\기말프로젝트.후기작성.resources
+C:\Users\User\Desktop\기말프로젝트11.26백업\obj\Debug\기말프로젝트.csproj.GenerateResource.cache
+C:\Users\User\Desktop\기말프로젝트11.26백업\obj\Debug\기말프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\기말프로젝트11.26백업\obj\Debug\기말프로젝트.csproj.CopyComplete
+C:\Users\User\Desktop\기말프로젝트11.26백업\obj\Debug\기말프로젝트.exe
+C:\Users\User\Desktop\기말프로젝트11.26백업\obj\Debug\기말프로젝트.pdb
+C:\Users\User\Desktop\기말프로젝트\obj\Debug\기말프로젝트.csprojAssemblyReference.cache
+C:\Users\User\Desktop\기말프로젝트\obj\Debug\기말프로젝트.고객관리.resources
+C:\Users\User\Desktop\기말프로젝트\obj\Debug\기말프로젝트.공지사항.resources
+C:\Users\User\Desktop\기말프로젝트\obj\Debug\기말프로젝트.상품관리.resources
+C:\Users\User\Desktop\기말프로젝트\obj\Debug\기말프로젝트.상품현황.resources
+C:\Users\User\Desktop\기말프로젝트\obj\Debug\기말프로젝트.판매현황.resources
+C:\Users\User\Desktop\기말프로젝트\obj\Debug\기말프로젝트.재고현황.resources
+C:\Users\User\Desktop\기말프로젝트\obj\Debug\기말프로젝트.회원공지.resources
+C:\Users\User\Desktop\기말프로젝트\obj\Debug\기말프로젝트.회원화면.resources
+C:\Users\User\Desktop\기말프로젝트\obj\Debug\기말프로젝트.ucPanel.AMART.resources
+C:\Users\User\Desktop\기말프로젝트\obj\Debug\기말프로젝트.ucPanel.BMART.resources
+C:\Users\User\Desktop\기말프로젝트\obj\Debug\기말프로젝트.ucPanel.CMART.resources
+C:\Users\User\Desktop\기말프로젝트\obj\Debug\기말프로젝트.ucPanel.DMART.resources
+C:\Users\User\Desktop\기말프로젝트\obj\Debug\기말프로젝트.ucPanel.EMART.resources
+C:\Users\User\Desktop\기말프로젝트\obj\Debug\기말프로젝트.관리자화면.resources
+C:\Users\User\Desktop\기말프로젝트\obj\Debug\기말프로젝트.판매자화면.resources
+C:\Users\User\Desktop\기말프로젝트\obj\Debug\기말프로젝트.마이페이지.resources
+C:\Users\User\Desktop\기말프로젝트\obj\Debug\기말프로젝트.로그인.resources
+C:\Users\User\Desktop\기말프로젝트\obj\Debug\기말프로젝트.회원가입.resources
+C:\Users\User\Desktop\기말프로젝트\obj\Debug\기말프로젝트.구입선택.resources
+C:\Users\User\Desktop\기말프로젝트\obj\Debug\기말프로젝트.Properties.Resources.resources
+C:\Users\User\Desktop\기말프로젝트\obj\Debug\기말프로젝트.후기작성.resources
+C:\Users\User\Desktop\기말프로젝트\obj\Debug\기말프로젝트.csproj.GenerateResource.cache
+C:\Users\User\Desktop\기말프로젝트\obj\Debug\기말프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\기말프로젝트\obj\Debug\기말프로젝트.exe
+C:\Users\User\Desktop\기말프로젝트\obj\Debug\기말프로젝트.pdb
+C:\Users\User\Desktop\기말프로젝트\bin\Debug\기말프로젝트.exe.config
+C:\Users\User\Desktop\기말프로젝트\bin\Debug\기말프로젝트.exe
+C:\Users\User\Desktop\기말프로젝트\bin\Debug\기말프로젝트.pdb
+C:\Users\User\Desktop\기말프로젝트\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\기말프로젝트\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Desktop\기말프로젝트\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\기말프로젝트\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\기말프로젝트\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\기말프로젝트\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\기말프로젝트\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\기말프로젝트\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\기말프로젝트\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\기말프로젝트\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\기말프로젝트\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\기말프로젝트\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\기말프로젝트\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\기말프로젝트\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\기말프로젝트\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\기말프로젝트\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\기말프로젝트\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\기말프로젝트\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\기말프로젝트\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\기말프로젝트\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\기말프로젝트\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\기말프로젝트\obj\Debug\기말프로젝트.csproj.CopyComplete
+C:\Users\User\Desktop\기말프로젝트\obj\Debug\기말프로젝트.승인목록.resources
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.csprojAssemblyReference.cache
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.고객관리.resources
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.공지사항.resources
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.상품관리.resources
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.상품현황.resources
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.승인목록.resources
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.판매현황.resources
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.재고현황.resources
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.회원공지.resources
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.회원화면.resources
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.관리자화면.resources
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.판매자화면.resources
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.마이페이지.resources
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.로그인.resources
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.회원가입.resources
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.구입선택.resources
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.Properties.Resources.resources
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.후기작성.resources
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.csproj.GenerateResource.cache
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.exe
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.pdb
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\bin\Debug\기말프로젝트.exe.config
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\bin\Debug\기말프로젝트.exe
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\bin\Debug\기말프로젝트.pdb
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.csproj.CopyComplete
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\bin\Debug\기말프로젝트.exe.config
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\bin\Debug\기말프로젝트.exe
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\bin\Debug\기말프로젝트.pdb
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.고객관리.resources
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.공지사항.resources
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.상품관리.resources
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.상품현황.resources
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.승인목록.resources
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.판매현황.resources
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.재고현황.resources
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.회원공지.resources
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.회원화면.resources
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.관리자화면.resources
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.판매자화면.resources
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.마이페이지.resources
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.로그인.resources
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.회원가입.resources
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.구입선택.resources
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.Properties.Resources.resources
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.후기작성.resources
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.csproj.GenerateResource.cache
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.csproj.CopyComplete
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.exe
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.pdb
+C:\Users\User\Desktop\족보\3학년 2학기\DB\기말프로젝트 - 최종백업\obj\Debug\기말프로젝트.csproj.AssemblyReference.cache
