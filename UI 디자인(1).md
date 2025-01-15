@@ -115,4 +115,20 @@ A매장일 때 폰트와 버튼 테두리 색(파랑)
         }
 ```
 
-+리스트뷰 색깔 디자인 부분
+
+|![로그인](https://github.com/user-attachments/assets/a408ae40-2c91-493f-95e2-82f554e07ce7)|![회원가입](https://github.com/user-attachments/assets/2ebfc9ac-e66d-412a-8673-ed9f58fc511d)|![회원메인](https://github.com/user-attachments/assets/9f8647ec-167c-44db-a0e3-1db9ad8dfc0a)|
+|:---:|:---:|:---:|
+|**로그인**|**회원가입**|**회원메인**|
+
+|![마이페이지](https://github.com/user-attachments/assets/04080042-3834-4a4d-850c-9b3e58ddb9a4)|![회원구매](https://github.com/user-attachments/assets/99083915-57f1-4294-af1c-b48e6e6b5487)|![후기작성](https://github.com/user-attachments/assets/8a028201-0fd8-4958-8e7a-c6e27bf26a52)|
+|:---:|:---:|:---:|
+|**마이페이지**|**회원구매**|**후기작성**|
+
+
+|![관리자메뉴](https://github.com/user-attachments/assets/e60e5d1c-9c71-4de1-85ac-cd49ec6a9187)|![관리자현황](https://github.com/user-attachments/assets/946cce9c-9ba9-45a2-b519-1b68143576ae)|![상품현황](https://github.com/user-attachments/assets/ff00b200-1a46-446d-b8c2-5de2ff206a2b)|
+|:---:|:---:|:---:|
+|**관리자메뉴**|**관리자현황**|**상품현황**|
+
+|![제고현황](https://github.com/user-attachments/assets/ebb31ab8-2188-45d5-a4cb-fd3fcfa6a8b4)|![고객관리](https://github.com/user-attachments/assets/fc48c4bc-454d-4a22-99d8-f521bd33fee7)|
+|:---:|:---:|
+|**제고현황**|**고객관리**|
