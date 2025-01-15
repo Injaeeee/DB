@@ -1,6 +1,6 @@
 ## 사용한 쿼리들
 
-![image](./image/데이터셋쿼리.png)  
+![image](../image/데이터셋쿼리.png)  
 
 
 ### 상품
